@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Navid Ashraf, and I am currently pursuing a master's degree in computer science.
+I have a strong interest in using machine learning/deep learning approaches to solve optimization problems.
+You can check my [github page](https://naweedashraf.github.io/) for further information.
