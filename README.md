@@ -20,6 +20,10 @@ I have a strong interest in using machine learning/deep learning approaches to s
 You can check my [github page](https://naweedashraf.github.io/) for further information.
 
 ### Repositories
+#### Python
+- [MLP neural network implementation](https://github.com/naweedashraf/MLP-neural-network)
+
+
 #### Learning material
 - [The Art of Computer Programming Books](https://github.com/naweedashraf/The-Art-of-Computer-Programming-Books)
 - [Multitask Learning](https://github.com/naweedashraf/Multitask-Learning)
