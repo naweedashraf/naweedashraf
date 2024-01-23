@@ -23,6 +23,7 @@ You can check my [page](https://naweedashraf.github.io/) for further information
 #### Python
 - [MLP neural network implementation](https://github.com/naweedashraf/MLP-neural-network)
 - [Tehran stock exchange market watch crawler](https://github.com/naweedashraf/Tehran-exchange-market-crawler)
+- [Telegram bot](https://github.com/naweedashraf/Telegram-bot)
 
 #### Learning material
 - [The Art of Computer Programming Books](https://github.com/naweedashraf/The-Art-of-Computer-Programming-Books)
