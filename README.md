@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Navid Ashraf, and I am currently pursuing a master's degree in computer science.
-I have a strong interest in using machine learning/deep learning approaches to solve optimization problems.
+My name is Navid Ashraf, and I am currently working at System Group as a software engineer.
+My work focuses on developing optimization frameworks and neural network architectures to solve complex real-world problems. I am driven by the potential of algorithmic innovation to transform industries.
 You can check my [page](https://naweedashraf.github.io/) for further information.
 
 ### Repositories
